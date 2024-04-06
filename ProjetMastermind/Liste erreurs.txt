@@ -1,0 +1,3 @@
+Les combinaisons peuvent être composées de plus de 5 caractères
+Les combinaisons peuvent ne pas être composées des 7 couleurs disponibles
+N'affiche pas et ne prend pas en compte les mal placés

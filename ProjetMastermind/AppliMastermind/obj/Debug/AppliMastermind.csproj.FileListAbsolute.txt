@@ -1,0 +1,22 @@
+E:\Copie disque dur Corine\Corine\Année 2022-2023 - SIO1\AP\AP3 - Jeux\Jeux faussés\ProjetMastermind\AppliMastermind\bin\Debug\AppliMastermind.exe.config
+E:\Copie disque dur Corine\Corine\Année 2022-2023 - SIO1\AP\AP3 - Jeux\Jeux faussés\ProjetMastermind\AppliMastermind\bin\Debug\AppliMastermind.exe
+E:\Copie disque dur Corine\Corine\Année 2022-2023 - SIO1\AP\AP3 - Jeux\Jeux faussés\ProjetMastermind\AppliMastermind\bin\Debug\AppliMastermind.pdb
+E:\Copie disque dur Corine\Corine\Année 2022-2023 - SIO1\AP\AP3 - Jeux\Jeux faussés\ProjetMastermind\AppliMastermind\obj\Debug\AppliMastermind.csproj.AssemblyReference.cache
+E:\Copie disque dur Corine\Corine\Année 2022-2023 - SIO1\AP\AP3 - Jeux\Jeux faussés\ProjetMastermind\AppliMastermind\obj\Debug\AppliMastermind.csproj.CoreCompileInputs.cache
+E:\Copie disque dur Corine\Corine\Année 2022-2023 - SIO1\AP\AP3 - Jeux\Jeux faussés\ProjetMastermind\AppliMastermind\obj\Debug\AppliMastermind.exe
+E:\Copie disque dur Corine\Corine\Année 2022-2023 - SIO1\AP\AP3 - Jeux\Jeux faussés\ProjetMastermind\AppliMastermind\obj\Debug\AppliMastermind.pdb
+D:\Projet\Jeux faussés\Jeux faussés\ProjetMastermind\AppliMastermind\bin\Debug\AppliMastermind.exe.config
+D:\Projet\Jeux faussés\Jeux faussés\ProjetMastermind\AppliMastermind\bin\Debug\AppliMastermind.exe
+D:\Projet\Jeux faussés\Jeux faussés\ProjetMastermind\AppliMastermind\bin\Debug\AppliMastermind.pdb
+D:\Projet\Jeux faussés\Jeux faussés\ProjetMastermind\AppliMastermind\obj\Debug\AppliMastermind.csproj.AssemblyReference.cache
+D:\Projet\Jeux faussés\Jeux faussés\ProjetMastermind\AppliMastermind\obj\Debug\AppliMastermind.csproj.SuggestedBindingRedirects.cache
+D:\Projet\Jeux faussés\Jeux faussés\ProjetMastermind\AppliMastermind\obj\Debug\AppliMastermind.csproj.CoreCompileInputs.cache
+D:\Projet\Jeux faussés\Jeux faussés\ProjetMastermind\AppliMastermind\obj\Debug\AppliMastermind.exe
+D:\Projet\Jeux faussés\Jeux faussés\ProjetMastermind\AppliMastermind\obj\Debug\AppliMastermind.pdb
+E:\Projet\Jeux faussés\Jeux faussés\ProjetMastermind\AppliMastermind\bin\Debug\AppliMastermind.exe.config
+E:\Projet\Jeux faussés\Jeux faussés\ProjetMastermind\AppliMastermind\bin\Debug\AppliMastermind.exe
+E:\Projet\Jeux faussés\Jeux faussés\ProjetMastermind\AppliMastermind\bin\Debug\AppliMastermind.pdb
+E:\Projet\Jeux faussés\Jeux faussés\ProjetMastermind\AppliMastermind\obj\Debug\AppliMastermind.csprojAssemblyReference.cache
+E:\Projet\Jeux faussés\Jeux faussés\ProjetMastermind\AppliMastermind\obj\Debug\AppliMastermind.csproj.CoreCompileInputs.cache
+E:\Projet\Jeux faussés\Jeux faussés\ProjetMastermind\AppliMastermind\obj\Debug\AppliMastermind.exe
+E:\Projet\Jeux faussés\Jeux faussés\ProjetMastermind\AppliMastermind\obj\Debug\AppliMastermind.pdb

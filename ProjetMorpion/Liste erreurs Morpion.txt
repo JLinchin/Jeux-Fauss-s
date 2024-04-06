@@ -1,0 +1,4 @@
+Il n'y a pas de grille
+Possible de prendre une case déjà choisie
+Crash quand rien n'est saisi
+Crash quand des valeurs < 1 et > 3 sont saisies

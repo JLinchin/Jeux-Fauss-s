@@ -1,0 +1,5 @@
+N'affiche pas le pendu => Pas possible de savoir combien d'essais restant
+Ne montre pas les lettres présentes
+Pas de message de victoire => Impossible de savoir si l'on a gagné
+Ne peut pas rejouer sans quitter
+Le choix des phrases aléatoire est faux; impossible de choisir la phrase n°0, 4 et 5
